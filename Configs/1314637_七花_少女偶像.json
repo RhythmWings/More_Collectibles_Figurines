@@ -1,0 +1,19 @@
+// 普通物品配置文件
+// 生成时间: 2025/10/29 16:27:35
+
+{
+  "OriginalItemId": "118",
+  "NewItemId": "1314637",
+  "DisplayName": "七花 少女偶像",
+  "LocalizationKey": "1314637",
+  "LocalizationDescValue": "No.000117 少女前线：云图计划 七花 少女偶像Ver.：今天的七花，也要努力用歌声去征服每一位粉丝的心呢！♪",
+  "Weight": 0.8,
+  "Value": 169600,
+  "Quality": 6,
+  "IconFileName": "1314637_七花_少女偶像.png",
+  "Tags": [
+    "Daily",
+    "Luxury",
+    "Figurine"
+  ]
+}

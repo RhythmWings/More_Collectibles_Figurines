@@ -1,0 +1,16 @@
+{
+  "OriginalItemId": 118,
+  "NewItemId": 1314613,
+  "DisplayName": "闪刀姬-零衣",
+  "LocalizationKey": "1314613",
+  "LocalizationDescValue": "No.000093 游戏王卡 怪兽藏品 闪刀姬-零衣：为了守护国民，零衣接受训练成为「闪刀姬」——启动闪刀，着装通常模式，驱动各种各样「闪刀机」出击。",
+  "Weight": 0.8,
+  "Value": 196800,
+  "Quality": 6,
+  "Tags": ["Figurine",
+    "Daily",
+    "Luxury"
+  ],
+  "IconFileName": "1314613_闪刀姬-零衣.png",
+  "LocalizationDesc": "_Desc"
+}

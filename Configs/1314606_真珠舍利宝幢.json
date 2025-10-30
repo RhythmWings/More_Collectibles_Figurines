@@ -1,0 +1,16 @@
+{
+  "OriginalItemId": 118,
+  "NewItemId": 1314606,
+  "DisplayName": "真珠舍利宝幢",
+  "LocalizationKey": "1314606",
+  "LocalizationDescValue": "No.000086 国家宝藏 真珠舍利宝幢：你好，我是……真，真珠宝幢，全名是真珠舍利宝幢。 现在正学习如何与人交流，希望你不……不介意……",
+  "Weight": 0.8,
+  "Value": 199800,
+  "Quality": 6,
+  "Tags": ["Figurine",
+    "Daily",
+    "Luxury"
+  ],
+  "IconFileName": "1314606_真珠舍利宝幢.png",
+  "LocalizationDesc": "_Desc"
+}

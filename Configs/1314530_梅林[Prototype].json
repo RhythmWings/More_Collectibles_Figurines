@@ -1,0 +1,16 @@
+{
+  "OriginalItemId": 118,
+  "NewItemId": 1314530,
+  "DisplayName": "梅林[Prototype]",
+  "LocalizationKey": "1314530",
+  "LocalizationDescValue": "No.000010 Fate/Ground Order Arcade Caster/梅林[Prototype]：你好，迦勒底的御主。我是梅林。人称花之魔术师。不用客气叫我梅林就好啦。我不太喜欢拘谨。",
+  "Weight": 0.8,
+  "Value": 339800,
+  "Quality": 6,
+  "Tags": ["Figurine",
+    "Daily",
+    "Luxury",
+  ],
+  "IconFileName": "1314530_梅林[Prototype].png",
+  "LocalizationDesc": "_Desc"
+}

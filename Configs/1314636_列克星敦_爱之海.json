@@ -1,0 +1,19 @@
+// 普通物品配置文件
+// 生成时间: 2025/10/29 15:55:55
+
+{
+  "OriginalItemId": "118",
+  "NewItemId": "1314636",
+  "DisplayName": "列克星敦 爱之海",
+  "LocalizationKey": "1314636",
+  "LocalizationDescValue": "No.000116 战舰少女R 列克星敦 爱之海Ver.：指挥官，我会一直在您身边的。",
+  "Weight": 0.8,
+  "Value": 149000,
+  "Quality": 6,
+  "IconFileName": "1314636_列克星敦_爱之海.png",
+  "Tags": [
+    "Daily",
+    "Luxury",
+    "Figurine"
+  ]
+}

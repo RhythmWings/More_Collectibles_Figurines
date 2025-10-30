@@ -1,0 +1,19 @@
+// 普通物品配置文件
+// 生成时间: 2025/10/29 13:41:03
+
+{
+  "OriginalItemId": "118",
+  "NewItemId": "1314624",
+  "DisplayName": "三月七",
+  "LocalizationKey": "1314624",
+  "LocalizationDescValue": "No.000104 崩坏·星穹铁道 三月七：你是不是觉得本姑娘傻了吧唧的？！",
+  "Weight": 0.8,
+  "Value": 197600,
+  "Quality": 6,
+  "IconFileName": "1314624_三月七.png",
+  "Tags": [
+    "Daily",
+    "Luxury",
+    "Figurine"
+  ]
+}

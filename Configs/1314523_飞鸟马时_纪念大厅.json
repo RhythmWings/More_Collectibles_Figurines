@@ -1,0 +1,16 @@
+{
+  "OriginalItemId": 118,
+  "NewItemId": 1314523,
+  "DisplayName": "飞鸟马时 纪念大厅",
+  "LocalizationKey": "1314523",
+  "LocalizationDescValue": "No.000003 蔚蓝档案 飞鸟马时(兔女郎) 纪念大厅Ver.：您好，老师。今天的值日生是兔女郎的我。还请多多指教。蹦蹦。",
+  "Weight": 0.8,
+  "Value": 255000,
+  "Quality": 6,
+  "Tags": ["Figurine",
+    "Daily",
+    "Luxury",
+  ],
+  "IconFileName": "1314523_飞鸟马时_纪念大厅.png",
+  "LocalizationDesc": "_Desc"
+}

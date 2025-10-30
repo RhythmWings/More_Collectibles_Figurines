@@ -1,0 +1,16 @@
+{
+  "OriginalItemId": 118,
+  "NewItemId": 1314535,
+  "DisplayName": "明月栞那",
+  "LocalizationKey": "1314535",
+  "LocalizationDescValue": "No.000015 星光咖啡馆与死神之蝶 明月栞那：我叫明月栞那，并非人类，而是被称为‘死神’的存在。",
+  "Weight": 0.8,
+  "Value": 364000,
+  "Quality": 6,
+  "Tags": ["Figurine",
+    "Daily",
+    "Luxury",
+  ],
+  "IconFileName": "1314535_明月栞那.png",
+  "LocalizationDesc": "_Desc"
+}

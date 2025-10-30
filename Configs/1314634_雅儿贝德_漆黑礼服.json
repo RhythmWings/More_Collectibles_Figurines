@@ -1,0 +1,19 @@
+// 普通物品配置文件
+// 生成时间: 2025/10/29 15:24:37
+
+{
+  "OriginalItemId": "118",
+  "NewItemId": "1314634",
+  "DisplayName": "雅儿贝德 漆黑礼服",
+  "LocalizationKey": "1314634",
+  "LocalizationDescValue": "No.000114 OVERLORD 雅儿贝德 漆黑礼服Ver.：这座纳萨力克地下大坟墓是只属于您的。我雅儿贝德，只想向您一个人效忠。啊啊......希望有朝一日还能听见您那美妙的名字——",
+  "Weight": 0.8,
+  "Value": 256000,
+  "Quality": 6,
+  "IconFileName": "1314634_雅儿贝德_漆黑礼服.png",
+  "Tags": [
+    "Daily",
+    "Luxury",
+    "Figurine"
+  ]
+}

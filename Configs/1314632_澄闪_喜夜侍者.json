@@ -1,0 +1,19 @@
+// 普通物品配置文件
+// 生成时间: 2025/10/29 15:01:49
+
+{
+  "OriginalItemId": "118",
+  "NewItemId": "1314632",
+  "DisplayName": "澄闪 喜夜侍者",
+  "LocalizationKey": "1314632",
+  "LocalizationDescValue": "No.000112 明日方舟 澄闪 喜夜侍者Ver.：给客人的礼物、门前的装饰、靓丽的服饰。澄闪为和大家一起庆祝这一天准备了许多。现在只差最后一步——吹响手中的号角，让欢乐遍满大地。",
+  "Weight": 0.8,
+  "Value": 219800,
+  "Quality": 6,
+  "IconFileName": "1314632_澄闪_喜夜侍者.png",
+  "Tags": [
+    "Daily",
+    "Luxury",
+    "Figurine"
+  ]
+}

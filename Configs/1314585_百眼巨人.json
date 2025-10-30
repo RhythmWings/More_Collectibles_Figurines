@@ -1,0 +1,16 @@
+{
+  "OriginalItemId": 118,
+  "NewItemId": 1314585,
+  "DisplayName": "百眼巨人",
+  "LocalizationKey": "1314585",
+  "LocalizationDescValue": "No.000065 碧蓝航线 百眼巨人：呼…诶嘿嘿，结果彻底错过了门限呢♪那个，指挥官？就我们两人，再闲逛一会儿，一起看看星空好吗？反正现在回皇家宿舍也于事无补了♪",
+  "Weight": 0.8,
+  "Value": 250000,
+  "Quality": 6,
+  "Tags": ["Figurine",
+    "Daily",
+    "Luxury"
+  ],
+  "IconFileName": "1314585_百眼巨人.png",
+  "LocalizationDesc": "_Desc"
+}

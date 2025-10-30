@@ -1,0 +1,19 @@
+// 普通物品配置文件
+// 生成时间: 2025/10/29 13:23:26
+
+{
+  "OriginalItemId": "118",
+  "NewItemId": "1314622",
+  "DisplayName": "英仙座",
+  "LocalizationKey": "1314622",
+  "LocalizationDescValue": "No.000102 碧蓝航线 英仙座：最近感觉…不止对指挥官，和其他舰船伙伴们都能更好地说上话了呢…都是因为有指挥官在我的身边，给我勇气与鼓励…我最喜欢指挥官了。",
+  "Weight": 0.8,
+  "Value": 259800,
+  "Quality": 6,
+  "IconFileName": "1314622_英仙座.png",
+  "Tags": [
+    "Daily",
+    "Luxury",
+    "Figurine"
+  ]
+}

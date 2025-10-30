@@ -1,0 +1,19 @@
+// 普通物品配置文件
+// 生成时间: 2025/10/29 13:46:05
+
+{
+  "OriginalItemId": "118",
+  "NewItemId": "1314625",
+  "DisplayName": "神里绫华 白鹭霜华",
+  "LocalizationKey": "1314625",
+  "LocalizationDescValue": "No.000105 原神 神里绫华 白鹭霜华：风和日丽，要去哪边走走么？",
+  "Weight": 0.8,
+  "Value": 185800,
+  "Quality": 6,
+  "IconFileName": "1314625_神里绫华_白鹭霜华.png",
+  "Tags": [
+    "Daily",
+    "Luxury",
+    "Figurine"
+  ]
+}

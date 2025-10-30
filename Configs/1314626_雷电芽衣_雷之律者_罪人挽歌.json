@@ -1,0 +1,19 @@
+// 普通物品配置文件
+// 生成时间: 2025/10/29 13:51:51
+
+{
+  "OriginalItemId": "118",
+  "NewItemId": "1314626",
+  "DisplayName": "雷电芽衣·雷之律者 罪人挽歌",
+  "LocalizationKey": "1314626",
+  "LocalizationDescValue": "No.000106 崩坏3rd 雷电芽衣 雷之律者 罪人挽歌Ver.：又一周过去了，不知道她现在过得怎么样……",
+  "Weight": 0.8,
+  "Value": 179800,
+  "Quality": 6,
+  "IconFileName": "1314626_雷电芽衣_雷之律者_罪人挽歌.png",
+  "Tags": [
+    "Daily",
+    "Luxury",
+    "Figurine"
+  ]
+}

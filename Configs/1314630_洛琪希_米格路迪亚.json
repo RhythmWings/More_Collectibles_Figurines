@@ -1,0 +1,19 @@
+// 普通物品配置文件
+// 生成时间: 2025/10/29 14:50:40
+
+{
+  "OriginalItemId": "118",
+  "NewItemId": "1314630",
+  "DisplayName": "洛琪希·米格路迪亚",
+  "LocalizationKey": "1314630",
+  "LocalizationDescValue": "No.000110 无职转生 ~到了异世界就拿出真本事~ 洛琪希·米格路迪亚：就算夸我也没有好处哦！",
+  "Weight": 0.8,
+  "Value": 185800,
+  "Quality": 6,
+  "IconFileName": "1314630_洛琪希_米格路迪亚.png",
+  "Tags": [
+    "Daily",
+    "Luxury",
+    "Figurine"
+  ]
+}

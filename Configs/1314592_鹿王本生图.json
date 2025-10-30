@@ -1,0 +1,16 @@
+{
+  "OriginalItemId": 118,
+  "NewItemId": 1314592,
+  "DisplayName": "鹿王本生图",
+  "LocalizationKey": "1314592",
+  "LocalizationDescValue": "No.000072 鹿王本生图：在雨后采摘的新茶，经历细雨滋润，汲取土地养分，晒于阳光之下，这份茶香，是天地万物的馈赠啊。",
+  "Weight": 0.8,
+  "Value": 199800,
+  "Quality": 6,
+  "Tags": ["Figurine",
+    "Daily",
+    "Luxury"
+  ],
+  "IconFileName": "1314592_鹿王本生图.png",
+  "LocalizationDesc": "_Desc"
+}

@@ -1,0 +1,19 @@
+// 普通物品配置文件
+// 生成时间: 2025/10/29 13:35:53
+
+{
+  "OriginalItemId": "118",
+  "NewItemId": "1314623",
+  "DisplayName": "葵",
+  "LocalizationKey": "1314623",
+  "LocalizationDescValue": "No.000103 高能手办团 葵：来得正好，一起补充睡眠吗？",
+  "Weight": 0.8,
+  "Value": 199800,
+  "Quality": 6,
+  "IconFileName": "1314623_葵.png",
+  "Tags": [
+    "Daily",
+    "Luxury",
+    "Figurine"
+  ]
+}

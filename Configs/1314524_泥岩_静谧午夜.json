@@ -1,0 +1,16 @@
+{
+  "OriginalItemId": 118,
+  "NewItemId": 1314524,
+  "DisplayName": "泥岩 静谧午夜 DN06",
+  "LocalizationKey": "1314524",
+  "LocalizationDescValue": "No.000004 明日方舟 泥岩 静谧午夜 DN06 VER.：是的，这位是泥岩，我们青春靓丽的萨卡兹大姑娘。",
+  "Weight": 0.8,
+  "Value": 252000,
+  "Quality": 6,
+  "Tags": ["Figurine",
+    "Daily",
+    "Luxury",
+  ],
+  "IconFileName": "1314524_泥岩_静谧午夜.png",
+  "LocalizationDesc": "_Desc"
+}

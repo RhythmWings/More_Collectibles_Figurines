@@ -1,0 +1,16 @@
+{
+  "OriginalItemId": 118,
+  "NewItemId": 1314618,
+  "DisplayName": "符玄",
+  "LocalizationKey": "1314618",
+  "LocalizationDescValue": "No.000098 崩坏：星穹铁道 符玄：今日晨起占得一卦，涨落在坎、离之间，变数颇多…啧，不宜行公务，不宜加班，真教人浑身不自在。",
+  "Weight": 0.8,
+  "Value": 199800,
+  "Quality": 6,
+  "Tags": ["Figurine",
+    "Daily",
+    "Luxury"
+  ],
+  "IconFileName": "1314618_符玄.png",
+  "LocalizationDesc": "_Desc"
+}

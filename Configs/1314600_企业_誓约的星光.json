@@ -1,0 +1,16 @@
+{
+  "OriginalItemId": 118,
+  "NewItemId": 1314600,
+  "DisplayName": "企业 誓约的星光",
+  "LocalizationKey": "1314600",
+  "LocalizationDescValue": "No.000080 碧蓝航线 企业 誓约的星光Ver.：只要有你在身边，无论经受多少残酷的战斗，面临多少痛苦的分离，我都一定能够满怀希望地走下去吧。",
+  "Weight": 0.8,
+  "Value": 299800,
+  "Quality": 6,
+  "Tags": ["Figurine",
+    "Daily",
+    "Luxury"
+  ],
+  "IconFileName": "1314600_企业_誓约的星光.png",
+  "LocalizationDesc": "_Desc"
+}

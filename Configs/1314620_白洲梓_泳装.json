@@ -1,0 +1,18 @@
+{
+  "OriginalItemId": 118,
+  "NewItemId": 1314620,
+  "DisplayName": "白洲梓 泳装",
+  "LocalizationKey": "1314620",
+  "LocalizationDescValue": "No.000100 蔚蓝档案 白洲梓 泳装：嗯？我在干什么？ 没干什么啊。 ……偶尔放松一下也不错。",
+  "Weight": 0.8,
+  "Value": 310600,
+  "Quality": 6,
+  "Tags": ["Figurine",
+    "Daily",
+    "Luxury"
+  ],
+  "EnergyValue": 0,
+  "WaterValue": 0,
+  "IconFileName": "1314620_白洲梓_泳装.png",
+  "LocalizationDesc": "_Desc"
+}

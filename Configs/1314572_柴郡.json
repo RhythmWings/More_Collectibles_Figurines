@@ -1,0 +1,16 @@
+{
+  "OriginalItemId": 118,
+  "NewItemId": 1314572,
+  "DisplayName": "柴郡",
+  "LocalizationKey": "1314572",
+  "LocalizationDescValue": "No.000052 碧蓝航线 柴郡：呀~真是的，不允许偷袭啦！明明只要和我说一声就好了嘛。",
+  "Weight": 0.8,
+  "Value": 319800,
+  "Quality": 6,
+  "Tags": ["Figurine",
+    "Daily",
+    "Luxury"
+  ],
+  "IconFileName": "1314572_柴郡.png",
+  "LocalizationDesc": "_Desc"
+}

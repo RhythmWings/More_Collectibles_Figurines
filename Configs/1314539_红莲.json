@@ -1,0 +1,16 @@
+{
+  "OriginalItemId": 118,
+  "NewItemId": 1314539,
+  "DisplayName": "红莲",
+  "LocalizationKey": "1314539",
+  "LocalizationDescValue": "No.000019 NIKKE：胜利女神 红莲：沉醉于美酒与风雅，隶属于开拓者部队的流浪剑客。",
+  "Weight": 0.8,
+  "Value": 189000,
+  "Quality": 6,
+  "Tags": ["Figurine",
+    "Daily",
+    "Luxury",
+  ],
+  "IconFileName": "1314539_红莲.png",
+  "LocalizationDesc": "_Desc"
+}

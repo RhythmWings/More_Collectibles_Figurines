@@ -1,0 +1,19 @@
+// 普通物品配置文件
+// 生成时间: 2025/10/29 14:43:25
+
+{
+  "OriginalItemId": "118",
+  "NewItemId": "1314629",
+  "DisplayName": "幻奏美术馆 Verse 1 水晶天使Aria",
+  "LocalizationKey": "1314629",
+  "LocalizationDescValue": "No.000109 原创 幻奏美术馆 Verse 1 水晶天使Aria",
+  "Weight": 0.8,
+  "Value": 234000,
+  "Quality": 6,
+  "IconFileName": "1314629_幻奏美术馆_Verse_1_水晶天使Aria.png",
+  "Tags": [
+    "Daily",
+    "Luxury",
+    "Figurine"
+  ]
+}

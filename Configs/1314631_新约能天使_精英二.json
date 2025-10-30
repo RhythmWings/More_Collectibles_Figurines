@@ -1,0 +1,19 @@
+// 普通物品配置文件
+// 生成时间: 2025/10/29 14:55:02
+
+{
+  "OriginalItemId": "118",
+  "NewItemId": "1314631",
+  "DisplayName": "新约能天使 精英二",
+  "LocalizationKey": "1314631",
+  "LocalizationDescValue": "No.000111 明日方舟 新约能天使 精英二Ver.：老板，我清楚这东西对你有多重要，以手中的铳起誓，它会安全抵达那里。",
+  "Weight": 0.8,
+  "Value": 299800,
+  "Quality": 6,
+  "IconFileName": "1314631_新约能天使_精英二.png",
+  "Tags": [
+    "Daily",
+    "Luxury",
+    "Figurine"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "OriginalItemId": 118,
+  "NewItemId": 1314593,
+  "DisplayName": "薇尔莉特·伊芙加登",
+  "LocalizationKey": "1314593",
+  "LocalizationDescValue": "No.000073 紫罗兰永恒花园 薇尔莉特·伊芙加登：花无凋零之时，爱无传达之期，爱亘古不变，紫罗兰永世长存。",
+  "Weight": 0.8,
+  "Value": 199800,
+  "Quality": 6,
+  "Tags": ["Figurine",
+    "Daily",
+    "Luxury"
+  ],
+  "IconFileName": "1314593_薇尔莉特.png",
+  "LocalizationDesc": "_Desc"
+}

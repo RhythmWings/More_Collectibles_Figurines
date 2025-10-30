@@ -1,0 +1,19 @@
+// 普通物品配置文件
+// 生成时间: 2025/10/29 14:26:12
+
+{
+  "OriginalItemId": "118",
+  "NewItemId": "1314628",
+  "DisplayName": "陈 岁红霞",
+  "LocalizationKey": "1314628",
+  "LocalizationDescValue": "No.000108 明日方舟 陈 岁红霞Ver.：总有那么几小时，比战场上还难熬。",
+  "Weight": 0.8,
+  "Value": 199800,
+  "Quality": 6,
+  "IconFileName": "1314628_陈_岁红霞.png",
+  "Tags": [
+    "Daily",
+    "Luxury",
+    "Figurine"
+  ]
+}

@@ -1,0 +1,19 @@
+// 普通物品配置文件
+// 生成时间: 2025/10/29 14:00:34
+
+{
+  "OriginalItemId": "118",
+  "NewItemId": "1314627",
+  "DisplayName": "布洛妮娅 次生银翼",
+  "LocalizationKey": "1314627",
+  "LocalizationDescValue": "No.000107 崩坏3rd 布洛妮娅 次生银翼Ver.：保持警觉，亚当。",
+  "Weight": 0.8,
+  "Value": 217600,
+  "Quality": 6,
+  "IconFileName": "1314627_布洛妮娅_次生银翼.png",
+  "Tags": [
+    "Daily",
+    "Luxury",
+    "Figurine"
+  ]
+}

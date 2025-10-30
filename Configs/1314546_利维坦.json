@@ -1,0 +1,16 @@
+{
+  "OriginalItemId": 118,
+  "NewItemId": 1314546,
+  "DisplayName": "利维坦",
+  "LocalizationKey": "1314546",
+  "LocalizationDescValue": "No.000026 绯色回响 利维坦：现在后悔也迟了，我绝对会把你变成我的东西。",
+  "Weight": 0.8,
+  "Value": 316000,
+  "Quality": 6,
+  "Tags": ["Figurine",
+    "Daily",
+    "Luxury"
+  ],
+  "IconFileName": "1314546_利维坦.png",
+  "LocalizationDesc": "_Desc"
+}

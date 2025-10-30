@@ -1,0 +1,16 @@
+{
+  "OriginalItemId": 118,
+  "NewItemId": 1314555,
+  "DisplayName": "芙兰朵露·斯卡雷特",
+  "LocalizationKey": "1314555",
+  "LocalizationDescValue": "No.000035 东方Project 芙兰朵露·斯卡雷特：一只超过495岁的吸血鬼。精神和思维似乎不太正常，而且拥有难以抑制的破坏力，所以一直被姐姐关在红魔馆，不被允许外出，就连聚会也很少参加。",
+  "Weight": 0.8,
+  "Value": 365000,
+  "Quality": 6,
+  "Tags": ["Figurine",
+    "Daily",
+    "Luxury"
+  ],
+  "IconFileName": "1314555_芙兰朵露.png",
+  "LocalizationDesc": "_Desc"
+}

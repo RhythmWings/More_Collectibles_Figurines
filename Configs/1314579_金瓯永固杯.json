@@ -1,0 +1,16 @@
+{
+  "OriginalItemId": 118,
+  "NewItemId": 1314579,
+  "DisplayName": "金瓯永固杯",
+  "LocalizationKey": "1314579",
+  "LocalizationDescValue": "No.000059 国家宝藏 金瓯永固杯：我不在乎茶叶有多名贵稀缺，重要的是两个人坐下来聊天的时光......我会全部珍藏起来的。",
+  "Weight": 0.8,
+  "Value": 179800,
+  "Quality": 6,
+  "Tags": ["Figurine",
+    "Daily",
+    "Luxury"
+  ],
+  "IconFileName": "1314579_金瓯永固杯.png",
+  "LocalizationDesc": "_Desc"
+}

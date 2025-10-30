@@ -1,0 +1,16 @@
+{
+  "OriginalItemId": 118,
+  "NewItemId": 1314556,
+  "DisplayName": "蕾米莉亚·斯卡雷特",
+  "LocalizationKey": "1314556",
+  "LocalizationDescValue": "No.000036 东方Project 蕾米莉亚·斯卡雷特：永远的鲜红幼月。居住在红魔馆的吸血鬼。拥有操纵命运程度的能力。据说活了500年以上了。",
+  "Weight": 0.8,
+  "Value": 365000,
+  "Quality": 6,
+  "Tags": ["Figurine",
+    "Daily",
+    "Luxury"
+  ],
+  "IconFileName": "1314556_蕾米莉亚.png",
+  "LocalizationDesc": "_Desc"
+}

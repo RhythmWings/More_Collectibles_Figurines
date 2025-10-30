@@ -1,0 +1,16 @@
+{
+  "OriginalItemId": 118,
+  "NewItemId": 1314616,
+  "DisplayName": "光辉 μ兵装",
+  "LocalizationKey": "1314616",
+  "LocalizationDescValue": "No.000096 碧蓝航线 光辉 μ兵装：带来爱与和平的歌声，与鼓动人心的舞蹈交织而成的至高舞台——愿这份光辉，能全部传达到指挥官的心中~",
+  "Weight": 0.8,
+  "Value": 470000,
+  "Quality": 6,
+  "Tags": ["Figurine",
+    "Daily",
+    "Luxury"
+  ],
+  "IconFileName": "1314616_光辉_μ兵装.png",
+  "LocalizationDesc": "_Desc"
+}

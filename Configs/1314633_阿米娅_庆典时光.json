@@ -1,0 +1,21 @@
+// 普通物品配置文件
+// 生成时间: 2025/10/29 15:12:06
+
+{
+  "OriginalItemId": "118",
+  "NewItemId": "1314633",
+  "DisplayName": "阿米娅 庆典时光",
+  "LocalizationKey": "1314633",
+  "LocalizationDescValue": "No.000113 明日方舟 阿米娅 庆典时光Ver.：无论这片大地上还有多少冰冷的故事......我也相信博士的心是温暖的。欢迎回家，博士。",
+  "Weight": 0.8,
+  "Value": 29800,
+  "Quality": 5,
+  "IconFileName": "1314633_阿米娅_庆典时光.png",
+  "EnergyValue": 0,
+  "WaterValue": 0,
+  "Tags": [
+    "Daily",
+    "Luxury",
+    "Figurine"
+  ]
+}
